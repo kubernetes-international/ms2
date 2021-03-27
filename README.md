@@ -1,1 +1,1 @@
-# ms2
+# ms2 php-fpm + apache in single container
